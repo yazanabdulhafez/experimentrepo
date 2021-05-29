@@ -1,0 +1,45 @@
+header{
+ 
+  background-color: rgb(130, 208, 253) ;
+  height: 80px;
+  
+}
+
+header nav{
+  float: right;
+  width: 30%;
+  margin-top: 15px;
+  font-family:Impact;
+}
+header h1{
+  float: left;
+  margin-left: 40px;
+  font-family: Lucida Handwriting;
+  color:#d11141;
+}
+
+header nav ul li{
+  display: inline-block;
+  margin-right: 10px;
+   
+}
+
+header nav ul li a{
+  color: rgb(236, 13, 218);
+  text-decoration: none;
+}
+
+
+
+img{
+margin-top:10px ;
+width:100% ;
+}
+
+
+footer{
+  color:blue;
+  background-color: yellowgreen;
+  height: 50px ;
+   width:100% ;
+}
